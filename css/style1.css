@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #000112;
+    
+}
+.scroll-bg{
+    background: #000112;
+    width: 850px;
+    margin: 10% auto;
+    padding: 30px;
+    border-radius: 30px;
+}
+.scroll-div{
+    width: 1000px;
+    background: #000112;
+    height: 1000px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.scroll-object{
+    color: white;
+    font-size: 15px;
+    padding: 20px;
+    
+}
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
